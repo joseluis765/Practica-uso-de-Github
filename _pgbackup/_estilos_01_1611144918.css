@@ -1,0 +1,44 @@
+#agrupar {
+    width: 960px;
+    margin: auto auto;
+    text-align: left;
+}
+
+#cabecera {
+    background: #CCCCCC;
+    padding: 40px;
+    margin: 10px;
+}
+
+#menu {
+    background: #CCCCCC;
+    padding: 5px 15px;
+}
+
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 20px;
+}
+
+#columna {
+    float: right;
+    width: 220px;
+    height: 120px;
+    margin: 20px 0px;
+    padding: 20px;
+    background: #CCCCCC;
+}
+
+#pie {
+    background: #CCCCCC;
+    clear: both;
+    text-align: center;
+    padding: 20px;
+}
+
+article {
+    background: #CCCCCC;
+    padding: 20px;
+    margin-bottom: 15px;
+}

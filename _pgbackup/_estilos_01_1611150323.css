@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#agrupar {
+    width: 980px;
+    margin: auto auto;
+    text-align: left;
+}
+
+#cabecera {
+    background: #CCCCCC;
+    margin: 5px;
+    text-align: center;
+    height: 180px;
+}
+
+#menu {
+    background: #CCCCCC;
+    padding: 5px 15px;
+}
+
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 5px;
+}
+
+#derecha {
+    float: left;
+    width: 300px;
+    height: 440px;
+    margin: 5px 5px;
+    background: #CCCCCC;
+}
+
+#pie {
+    background: #CCCCCC;
+    clear: both;
+    text-align: center;
+    padding: 20px;
+}
+
+article {
+    background: #CCCCCC;
+    padding: 20px;
+    margin-bottom: 5px;
+    height: 180px;
+}

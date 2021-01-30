@@ -1,0 +1,75 @@
+body
+{
+    background-color: lime;
+    background-image: url(imagenes/cusco.gif);
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+#cabezera
+{
+    background-color: #09c;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;    
+}
+#cizquierdo
+{
+  float: left;
+  width: 200px;
+  margin: 10px;  
+  text-align: justify;
+}
+#contenido
+{
+    margin: 10px 240px;
+    text-align: justify;
+}
+#cderecha
+{
+    float: right;
+    width: 200px;
+    margin: 10px;
+    text-align: justify;
+}
+#pie
+{
+    clear: both;
+    background-color: #09c;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3
+{
+    font-family:sans-serif;
+    text-align:center;
+    color: black;
+    text-decoration: underline;
+    background: lime;
+}
+
+ul.icono1
+{
+    list-style-image: url(imagenes/ok.gif);
+}
+
+ul.icono2
+{
+    list-style-image: url(imagenes/go.gif);
+}
+
+ul.icono3
+{
+    list-style-image: url(imagenes/search.gif);
+}
+
+hr
+{
+    text-align:center;
+    margin-left:15%;
+    width:100%;
+    margin-right:15%;
+    color: black;
+}

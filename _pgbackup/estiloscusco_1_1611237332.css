@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#agrupar {
+    width: 1200px;
+    margin: auto;
+    text-align: left;
+}
+
+#cabecera {
+    margin: 5px;
+    height: 200px;
+    text-align: center;
+}
+
+#menu {
+    padding: 5px 15px;
+}
+
+#menu li {
+    display: inline-block;
+    padding: 5px;
+    font: bold 14px verdana, sans-serif;
+}
+
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 5px;
+}
+
+#derecha {
+    float: left;
+    height: 1000px;
+    width: 300px;
+    margin: 5px 5px;
+}
+
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+}

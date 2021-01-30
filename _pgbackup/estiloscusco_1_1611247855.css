@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#contenedor {
+    width: 80%;
+    margin: auto auto;
+    text-align: center;
+}
+
+#cabecera {
+    margin: 5px;
+    height: 200px;
+    text-align: center;
+}
+
+#menu {
+    padding: 5px 15px;
+}
+
+#menu li {
+    display: inline-block;
+    padding: 5px;
+    font: bold 14px verdana, sans-serif;
+}
+
+#izquierda {
+    float: left;
+    width: 70%;
+    margin: 5px;
+}
+
+#derecha {
+    float: right;
+    width: 25%;
+    margin: 5px 5px;
+    padding: 1em;
+}
+
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 10px;
+}
